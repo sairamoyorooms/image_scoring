@@ -1,0 +1,18 @@
+python 2.7 or above
+Libraries -->
+os
+cv2
+PIL
+tqdm
+numpy
+pandas
+keras
+pyhive
+requests
+warnings
+psycopg2
+itertools
+sqlalchemy
+tensorflow
+multiprocessing
+silence_tensorflow
